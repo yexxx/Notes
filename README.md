@@ -13,6 +13,8 @@
 [CS144](https://cs144.github.io/)
 
 - [0: networking warmup](CS144/0:%20networking%20warmup.md)
+- [1: stitching substrings into a byte stream](CS144/1:%20stitching%20substrings%20into%20a%20byte%20stream.md)
+- [2: the TCP receiver](CS144/2:%20the%20TCP%20receiver.md)
 
 ## Golang
 
