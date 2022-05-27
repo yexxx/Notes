@@ -59,7 +59,7 @@
 ### 3.2 Implementing the TCP receiver
 
 - TCP receiver:
-  - (1) receive segments from its peer, 
+  - (1) receive segments from its peer,
   - (2) reassemble the ByteStream using your StreamReassembler, and
   - (3) calculate the acknowledgment number (ackno) and the window size.
 - TCPSegement
