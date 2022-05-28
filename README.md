@@ -36,4 +36,4 @@
 
 ### Other
 
-- [使用vscode进行Debug](Other/How%20to%20debug%20using%20vscode)
+- [使用vscode进行Debug](Other/How%20to%20debug%20using%20vscode.md)
